@@ -20,3 +20,4 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Matheus Calegaro](https://github.com/mathcale)
 
+-   [Dinolin YP Job](https://github.com/dinolinjob)
