@@ -8,7 +8,7 @@
 ### 0. Register for hacktoberfest :ticket:
 You can register from [here](https://hacktoberfest.digitalocean.com)
 
-### 1. Fork this Repo :fork_and_knife
+### 1. Fork this Repo :fork_and_knife:
 Click on the forkbutton on the top right [hacktoberfest_2018](https://github.com/develop-build/hacktoberfest_2018)
 
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/develop-build/hacktoberfest_2018)
