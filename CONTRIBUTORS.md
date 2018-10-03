@@ -22,3 +22,5 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Diego Cezário](https://github.com/dcezario)
 
+-   [MReis89](https://github.com/MReis89)
+
