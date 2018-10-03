@@ -14,7 +14,7 @@ Click on the forkbutton on the top right [hacktoberfest_2018](https://github.com
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/develop-build/hacktoberfest_2018)
 
 ### 2. Do the real work :muscle:
-Click the contributors.md file, and add your name to the file, corresponding to the format given below (look at the example entries in the contributors.md file)
+Click the CONTRIBUTORS.md file, and add your name to the file, corresponding to the format given below (look at the example entries in the CONTRIBUTORS.md file)
 
 ```markdown
   - [<your name>](<Link to your github profile>)
