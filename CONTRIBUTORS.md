@@ -9,3 +9,4 @@ Add entry to the list below as per the format specified in README.md
 - [Ben C.](https://github.com/yopamuhanu)
 
 - [Sean B.](https://github.com/seanysean)
+- [Karz](https://github.com/kartik-karz)
