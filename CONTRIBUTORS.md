@@ -1,17 +1,19 @@
 Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
-- [Anubhav Jain](https://github.com/develop-build/)
 
-- [Devansh Mishra](https://github.com/CircleJerkHug/)
+-   [Anubhav Jain](https://github.com/develop-build/)
 
-- [Rupali Kavale](https://github.com/coderquill)
+-   [Devansh Mishra](https://github.com/CircleJerkHug/)
 
-- [Ben C.](https://github.com/yopamuhanu)
+-   [Rupali Kavale](https://github.com/coderquill)
 
-- [Sean B.](https://github.com/seanysean)
+-   [Ben C.](https://github.com/yopamuhanu)
 
-- [Karz](https://github.com/kartik-karz)
+-   [Sean B.](https://github.com/seanysean)
 
-- [Manan Goel](https://github.com/manangoel99)
+-   [Karz](https://github.com/kartik-karz)
 
+-   [Manan Goel](https://github.com/manangoel99)
+
+-   [Sangsom](https://github.com/Sangsom)
