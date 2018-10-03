@@ -20,7 +20,7 @@ You need to add an entry similar to format specified below, under Contributors L
   - [<your name>](<Link to your github profile>)
 ```
 ### 3. Final Step :checkered_flag: 
-Create a pull request [here](https://github.com/develop-build/pulls)
+Create a pull request [here](https://github.com/develop-build/hacktoberfest_2018/pulls)
 
 ### 4. Give this repository a star :star2:
 If you liked working in this project please share this project as much as you can and star this project to help as many people in opensource as you can.
