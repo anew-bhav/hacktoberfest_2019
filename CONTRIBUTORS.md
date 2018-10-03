@@ -20,3 +20,5 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Matheus Calegaro](https://github.com/mathcale)
 
+-   [Diego Cezário](https://github.com/dcezario)
+
