@@ -18,3 +18,5 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Manan Goel](https://github.com/manangoel99)
 
+-   [Matheus Calegaro](https://github.com/mathcale)
+
