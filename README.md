@@ -9,21 +9,21 @@
 You can register from [here](https://hacktoberfest.digitalocean.com)
 
 ### 1. Fork this Repo :fork_and_knife
-Get your own fork/copy of [hacktoberfest_2018](https://github.com/develop-build/hacktoberfest_2018)
+Click on the forkbutton on the top right [hacktoberfest_2018](https://github.com/develop-build/hacktoberfest_2018)
 
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/develop-build/hacktoberfest_2018)
 
 ### 2. Do the real work :muscle:
-You need to add an entry similar to format specified below, under Contributors List in CONTRIBUTORS.md
+Click the contributors.md file, and add your name to the file, corresponding to the format given below (look at the example entries in the contributors.md file)
 
 ```markdown
   - [<your name>](<Link to your github profile>)
 ```
 ### 3. Final Step :checkered_flag: 
-Create a pull request [here](https://github.com/develop-build/hacktoberfest_2018/pulls)
+Create a pull request (OR) Once you finish editing the contributors.md file, click PULL REQUEST on the page following the edit page. [here](https://github.com/develop-build/hacktoberfest_2018/pulls)
 
 ### 4. Give this repository a star :star2:
-If you liked working in this project please share this project as much as you can and star this project to help as many people in opensource as you can.
+If you liked working in this project please share this project as much as you can and star this project (top right corner) to help as many people in opensource as you can.
 
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
