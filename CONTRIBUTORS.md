@@ -1,5 +1,5 @@
-Add entry to the list below in the format specified in README.md
+Add entry to the list below as per the format specified in README.md
 
-### Contributers List
+### Contributors List
 - [Anubhav Jain](https://github.com/develop-build/)
 
