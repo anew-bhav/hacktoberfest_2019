@@ -20,7 +20,7 @@ Click the CONTRIBUTORS.md file, and add your name to the file, corresponding to 
   - [<your name>](<Link to your github profile>)
 ```
 ### 3. Final Step :checkered_flag: 
-Create a pull request (OR) Once you finish editing the contributors.md file, click PULL REQUEST on the page following the edit page. [here](https://github.com/develop-build/hacktoberfest_2018/pulls)
+Create a pull request (OR) Once you finish editing the CONTRIBUTORS.md file, click PULL REQUEST on the page following the edit page. [here](https://github.com/develop-build/hacktoberfest_2018/pulls)
 
 ### 4. Give this repository a star :star2:
 If you liked working in this project please share this project as much as you can and star this project (top right corner) to help as many people in opensource as you can.
