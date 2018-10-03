@@ -14,6 +14,7 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Karz](https://github.com/kartik-karz)
 
+-   [Saurabh Pal](https://github.com/saurabhhpal)
+
 -   [Manan Goel](https://github.com/manangoel99)
 
--   [Sangsom](https://github.com/Sangsom)
