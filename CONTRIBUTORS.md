@@ -37,3 +37,5 @@ Add entry to the list below as per the format specified in README.md
 -   [Samyak Jain](https://github.com/samyak-sopho)
 
 -   [Pareksha Manchanda](https://github.com/pareksha)
+
+-   [Fredrik Engstrand](https://github.com/frewacom)
