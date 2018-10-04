@@ -33,3 +33,5 @@ Add entry to the list below as per the format specified in README.md
 -   [Von Ralls](https://github.com/vonralls)
 
 -   [Shashank Anand](https://github.com/onionspider)
+
+-   [Samyak Jain](https://github.com/samyak-sopho)
