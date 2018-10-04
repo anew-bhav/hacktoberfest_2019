@@ -26,4 +26,10 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Dinolin YP Job](https://github.com/dinolinjob)
 
+
+
 -   [Ananya](https://github.com/ananyaarun)
+
+-   [Von Ralls](https://github.com/vonralls)
+
+-   [Shashank Anand](https://github.com/onionspider)
