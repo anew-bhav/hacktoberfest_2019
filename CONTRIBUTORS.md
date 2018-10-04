@@ -35,3 +35,5 @@ Add entry to the list below as per the format specified in README.md
 -   [Shashank Anand](https://github.com/onionspider)
 
 -   [Samyak Jain](https://github.com/samyak-sopho)
+
+-   [Pareksha Manchanda](https://github.com/pareksha)
