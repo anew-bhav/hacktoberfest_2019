@@ -2,6 +2,8 @@ Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
 
+-   [Ashiv Gupta](https://github.com/ashivliving/)
+
 -   [Anubhav Jain](https://github.com/develop-build/)
 
 -   [Devansh Mishra](https://github.com/CircleJerkHug/)
