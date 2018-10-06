@@ -8,6 +8,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Devansh Mishra](https://github.com/CircleJerkHug/)
 
+-   [Sumindar Kaur Saini](https://github.com/Sumindar)
+
 -   [Rupali Kavale](https://github.com/coderquill)
 
 -   [Ben C.](https://github.com/yopamuhanu)
