@@ -43,3 +43,5 @@ Add entry to the list below as per the format specified in README.md
 -   [Fredrik Engstrand](https://github.com/frewacom)
 
 -   [Jarpi](https://github.com/jarpi)
+
+-   [Vilvalas](https://github.com/vilvalas)
