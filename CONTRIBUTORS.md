@@ -47,3 +47,6 @@ Add entry to the list below as per the format specified in README.md
 -   [Jarpi](https://github.com/jarpi)
 
 -   [Vilvalas](https://github.com/vilvalas)
+
+-   [Naman Manchanda](https://github.com/namanmanchanda09)
+
