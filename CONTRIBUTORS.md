@@ -50,3 +50,5 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Naman Manchanda](https://github.com/namanmanchanda09)
 
+-   [Ishaan Goyal](https://github.com/Ishaan0905)
+
