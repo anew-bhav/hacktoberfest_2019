@@ -51,3 +51,7 @@ Add entry to the list below as per the format specified in README.md
 -   [Naman Manchanda](https://github.com/namanmanchanda09)
 
 -   [Shreeram Vaidhyanathan](https://github.com/iamshreeram)
+
+-   [Ishaan Goyal](https://github.com/Ishaan0905)
+
+-   [Shayan](https://github.com/shayankamil)
