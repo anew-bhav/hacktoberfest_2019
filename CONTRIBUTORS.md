@@ -62,3 +62,5 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Piyush Poply](https://github.com/Piyush2283)
 
+-   [Pradeep Singh](https://github.com/pswaldia)
+
