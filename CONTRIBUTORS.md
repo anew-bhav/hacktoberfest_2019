@@ -7,6 +7,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Ashiv Gupta](https://github.com/ashivliving/)
 
+-   [Deepa Prajapati](https://github.com/Deepa003)
+
 -   [Anubhav Jain](https://github.com/develop-build/)
 
 -   [Devansh Mishra](https://github.com/CircleJerkHug/)
