@@ -37,6 +37,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Ananya](https://github.com/ananyaarun)
 
+-   [Nemish Garg](https://github.com/nemishgarg)
+
 -   [Von Ralls](https://github.com/vonralls)
 
 -   [Shashank Anand](https://github.com/onionspider)
