@@ -65,4 +65,6 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Pradeep Singh](https://github.com/pswaldia)
 
+-   [Tara Joy](https://github.com/tarajoy)
+
 -   [Christopher Jones](https://github.com/gChrisj)
