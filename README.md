@@ -1,4 +1,4 @@
-# Beginners friendly contributions for Hacktoberfest 2018
+# Beginners friendly contributions for Hacktoberfest 2019
 > This repository is a platform for open source enthusiasts to start with their open source contribution. You can find a tutorial [here](https://guides.github.com/activities/hello-world/):page_with_curl:
 
 ## Begin your contributions here.
@@ -9,9 +9,9 @@
 If it's not already done, you can register to participate to the Hacktoberfest [here](https://hacktoberfest.digitalocean.com). 
 
 ### 1. Fork this Repo :fork_and_knife:
-Click on the "Fork" button at the top right of this repo ([hacktoberfest_2018](https://github.com/develop-build/hacktoberfest_2018)).
+Click on the "Fork" button at the top right of this repo ([hacktoberfest_2019](https://github.com/anubhav8421/hacktoberfest_2019)).
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/develop-build/hacktoberfest_2018)
+[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/anubhav8421/hacktoberfest_2019)
 
 ### 2. Do the real work :muscle:
 Click the `CONTRIBUTORS.md` file, press the edit button (the little pencil) and add your name to the file, corresponding to the format given below (you can take the `CONTRIBUTORS.md` file as an example).
