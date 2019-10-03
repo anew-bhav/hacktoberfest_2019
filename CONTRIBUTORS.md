@@ -1,6 +1,8 @@
-Add entry to the list below as per the format specified in README.md
+﻿Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
+-   [Andrew Hostetter](https;//github.com/GeneralPlatypus)
+
 -   [Sarah](https://github.com/sarahxoxo)
 
 -   [Emmanuel Akinde](https://github.com/harkindey)
