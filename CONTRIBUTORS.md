@@ -78,3 +78,7 @@ Add entry to the list below as per the format specified in README.md
 -   [Tara Joy](https://github.com/tarajoy)
 
 -   [Christopher Jones](https://github.com/gChrisj)
+
+-   [Tharaka Dilruk](https://github.com/DTharaka)
+
+
