@@ -13,6 +13,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Deepa Prajapati](https://github.com/Deepa003)
 
+-   [Nezab](https://github.com/nezab)
+
 -   [Anubhav Jain](https://github.com/develop-build/)
 
 -   [Devansh Mishra](https://github.com/CircleJerkHug/)
