@@ -28,6 +28,8 @@ Add entry to the list below as per the format specified in README.md
 -   [Karz](https://github.com/kartik-karz)
 
 -   [Saurabh Pal](https://github.com/saurabhhpal)
+-   [Muhica](https://github.com/muhica)
+
 
 -   [Manan Goel](https://github.com/manangoel99)
 
