@@ -9,6 +9,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Kanak Garg](https://github.com/Canaque/)
 
+-   [Mrga](https://github.com/amrgaprda/)
+
 -   [Ashiv Gupta](https://github.com/ashivliving/)
 
 -   [Deepa Prajapati](https://github.com/Deepa003)
