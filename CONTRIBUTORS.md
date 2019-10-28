@@ -1,6 +1,8 @@
 Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
+-   [Tatendamarshall] (https://github.com/Tatendamarshall)
+
 -   [Sarah](https://github.com/sarahxoxo)
 
 -   [Emmanuel Akinde](https://github.com/harkindey)
