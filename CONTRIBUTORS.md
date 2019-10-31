@@ -39,6 +39,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Dinolin YP Job](https://github.com/dinolinjob)
 
+-   [Fernando Maia](https://github.com/FernandoMaia97)
+
 -   [Rick Dunkin](https://github.com/rickdunkin)
 
 -   [Ananya](https://github.com/ananyaarun)
