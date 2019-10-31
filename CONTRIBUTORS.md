@@ -35,8 +35,6 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Diego Cezário](https://github.com/dcezario)
 
--   [MReis89](https://github.com/MReis89)
-
 -   [Dinolin YP Job](https://github.com/dinolinjob)
 
 -   [Rick Dunkin](https://github.com/rickdunkin)
@@ -78,3 +76,5 @@ Add entry to the list below as per the format specified in README.md
 -   [Tara Joy](https://github.com/tarajoy)
 
 -   [Christopher Jones](https://github.com/gChrisj)
+
+-   [MReis89](https://github.com/MReis89)
