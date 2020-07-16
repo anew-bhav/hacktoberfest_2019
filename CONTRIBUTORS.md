@@ -5,6 +5,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Emmanuel Akinde](https://github.com/harkindey)
 
+-   [Roland Awoda](https://github.com/rolandawoda)
+
 -   [Subham Bhattacharjee](https://github.com/subhaminion)
 
 -   [Kanak Garg](https://github.com/Canaque/)
