@@ -1,6 +1,9 @@
 Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
+
+-   [Lucas Wildemberg](https://github.com/lucaswildemberg)
+
 -   [Sarah](https://github.com/sarahxoxo)
 
 -   [Emmanuel Akinde](https://github.com/harkindey)
